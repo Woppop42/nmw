@@ -31,7 +31,7 @@ export function WaitingPage() {
           En attendant l'ouverture de ce site qui satisfera vos attentes, vous
           pouvez d’ores et déjà nous contacter à l’adresse suivante :
         </p>
-        <p className="contact">contact@NestorMwine.com</p>
+        <a href="mailto:contact@NestorMwine.com" className="contact">contact@NestorMwine.com</a>
 
         <p>Notre catalogue est aussi disponible sous le lien suivant : </p>
         <a href="https://online.fliphtml5.com/otftp/ojjv/#p=1" target="_blank" rel="noopener noreferrer" className="catalog-button">
