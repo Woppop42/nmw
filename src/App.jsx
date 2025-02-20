@@ -5,7 +5,7 @@ import { WaitingPage } from "./components/WaitingPage"
 function App()
 {
     return(
-        <BrowserRouter basename="/nestormwine">
+        <BrowserRouter basename="/">
         
         <Routes>
             <Route path="/" Component={WaitingPage} />
